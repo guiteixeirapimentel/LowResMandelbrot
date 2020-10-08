@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\guilherme\desktop\mandelbrot\window\main.cpp(14): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Window.vcxproj -> C:\Users\guilherme\Desktop\Mandelbrot\x64\Debug\Window.exe
+  Window.vcxproj -> C:\Users\guilherme\Desktop\Mandelbrot\x64\Debug\Window.pdb (Partial PDB)
